@@ -17,7 +17,7 @@ Reading list:
 
 - [[initial research]]
 - [[Operating system reasearch]]
-- [[react os sources]]
+- [[react os#React os sources|React Os Sources]]
 - [[break point]]
 - [[unicode library]]
 
