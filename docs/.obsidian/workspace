@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "640f86d9e92bf0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c2a630565512c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "break point.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9791b9ee68111d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1723760f88d4efc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97740822a8fa4b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12b189d84f96cc6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "396e903a6a8c81ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "afe44571be6fdae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8607f10163327c3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "break point.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23c2a630565512c2",
+  "lastOpenFiles": [
+    "break point.md",
+    "index.md",
+    "windows locale.md",
+    "unicode library.md",
+    "set_layout_oriantation.md",
+    "resource.md",
+    "react os sources.md",
+    "react os.md",
+    "Operating system reasearch.md",
+    "initial research.md"
+  ]
+}

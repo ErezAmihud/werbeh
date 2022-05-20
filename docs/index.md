@@ -1,11 +1,24 @@
-# Obsidian Notes
+# werbeh
+This is a program to reverse the direction of right to left languages.
 
-Publish your public notes with MkDocs
+Meaning instead of writing שלום we would write םולש as we would do with english (the characters will be automatically formated to the left) , and the letters will be inverted.
 
-## Hello World!
+## Desclaimer
+This project does not work and will not work.
+I used the idea to learn about text parsing and read some c/c++ sources (which is always nice). 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+## Reason for creating the repo
+After all this is not gonna work, but I want to:
+- Preserve my research for myself and my future possible usage
+- Help curious mind like me to have the exact reasoning
+- I created the docs anyway so why not?
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+Reading list:
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- [[initial research]]
+- [[Operating system reasearch]]
+- [[react os sources]]
+- [[break point]]
+- [[unicode library]]
+
+The docs are generated using [publish-mkdocs](https://github.com/jobindj/obsidian-publish-mkdocs)

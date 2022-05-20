@@ -1,0 +1,2 @@
+It was not the application itself, and I did not have a good lead on the operating system, so I went back to unicode.
+Unicode have a spacial character that forces the text to be ltr or rtl. It is not helpful for the project but it is the setting point for the next part.
